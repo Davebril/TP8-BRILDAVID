@@ -1,4 +1,4 @@
-# pnt2-tp8
+# tp8
 
 ## Project setup
 ```
